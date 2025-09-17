@@ -19,8 +19,3 @@ This is the **official asset repository** for the **Ace Elite Apex** organizatio
 
 ![Main Logo](logo/ace-elite-apex-logo.png)
 
----
-
-## 🔗 Usage
-
-![Ace Elite Logo](https://github.com/jingjie1997/ace-elite-assets/tree/main/logo/ace-elite-apex-logo.png)
