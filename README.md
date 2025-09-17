@@ -1,9 +1,4 @@
 
----
-
-## 🇺🇸 英文版：`README.md`
-
-```md
 # 🧰 Ace Elite Apex - Official Brand Asset Repository
 
 This is the **official asset repository** for the **Ace Elite Apex** organization, used to manage all visual brand elements such as logos, icons, and banners.
@@ -28,7 +23,4 @@ This is the **official asset repository** for the **Ace Elite Apex** organizatio
 
 ## 🔗 Usage
 
-Embed in your GitHub README:
-
-```md
-![Ace Elite Logo](https://raw.githubusercontent.com/ace-elite-apex/ace-elite-assets/main/logo/ace-elite-apex-logo.png)
+![Ace Elite Logo](https://github.com/jingjie1997/ace-elite-assets/tree/main/logo/ace-elite-apex-logo.png)
